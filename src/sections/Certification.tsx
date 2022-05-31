@@ -1,0 +1,35 @@
+import React from "react";
+import { Row, Col } from "react-bootstrap";
+import { Section, Timeline } from "../components";
+import history from "../data/history.json";
+
+const certification = history.certification;
+
+export class Certification extends React.Component {
+  render() {
+    return (
+      <Section id="Certification" title="Certification">
+        <Row>
+          <Col md={12}>
+            <div className="timeline edu bg-white rounded shadow-dark padding-30 overflow-hidden">
+              {certification.map((e) => (
+                <Timeline
+                  key={e.degree}
+                  time={e.period}
+                  title={e.school}
+                  icon={["fas", "graduation-cap"]}
+                >
+                  <b>{e.degree}</b>
+                  <div dangerouslySetInnerHTML={{ __html: e.description }} />
+                </Timeline>
+              ))}
+              <span className="line" />
+            </div>
+          </Col>
+        </Row>
+      </Section>
+    );
+  }
+}
+
+export default Certification;

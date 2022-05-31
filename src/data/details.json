@@ -1,0 +1,21 @@
+{
+  "firstName": "Chetan",
+  "middleName": " ",
+  "lastName": "Thakur",
+  "avatar": "/images/Chetan.jpg",
+  "titles": [
+    "Fullstack developer",
+    "Front-End developer",
+    "Back-End developer"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/chetan-thakur-fullstack-developer/",
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chetan-thakur/",
+      "iconName": "faLinkedin"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "username": "Chetan Thakur",
+  "avatar": "/images/Chetan.jpg",
+  "objective": "<p><b>Fullstack developer</b> over <b>11+ years</b> of experience in developing, implementing and maintaining <b>Java Spring Boot, Angular,ReactJS, TypeScript, NodeJs,</b>  Restful API, Microservices based web applications, components and interfaces. <li>Solid Front End UX/UI Developer <b>(Angular, ReactJS, HTML5, CSS3, JSP, JS)</b> with solid understanding of database <b>(MYSQL, Oracle, SQL Server, Cassandra), Core Java & J2EE (Struts, Hibernate, Spring, Spring boot, microservice)</b>development skills including Multithreading, Synchronization, Collections and Serialization.</li> <li>Actively worked on creating <b>NodeJS</b> and <b>Spring Boot</b> microservices. </li> <li>Worked closely with Business and QA team members to understand requirements, design & ensure system meets business and technical objectives. </li> <li>Participated in the entire software development lifecycles, wrote well documented and efficient code with version code management. </li><li>Hands on experience in <b>Amazon web services (AWS)</b> like codeCommit, codeWatch, SQS, Lambda also created dashboard for to monitor production env.Excellent experience in Onshore-Offshore model interacting with clients and onsite managers.</li><li>Extensively worked on <b>Responsive Web Design (RWD)</b> using Bootstrap and CSS3 Media Queries.</li></p>",
+  "resumeUrl": "https://www.linkedin.com/in/chetan-thakur/",
+  "skills": [
+    {
+      "name": "TypeScript",
+      "confidence": 92,
+      "color": "#FF4500"
+    },
+    {
+      "name": "ReactJS",
+      "confidence": 95,
+      "color": "#1E90FF"
+    },
+    {
+      "name": "Angular",
+      "confidence": 90,
+      "color": "#FF6347"
+    },
+    {
+      "name": "NodeJS",
+      "confidence": 90,
+      "color": "#32CD32"
+    },
+    {
+      "name": "Java spring boot",
+      "confidence": 90,
+      "color": "#00FF7F"
+    },
+    {
+      "name": "NoSQL",
+      "confidence": 85,
+      "color": "rgb(108, 108, 229)"
+    },
+
+    {
+      "name": "SQL",
+      "confidence": 85,
+      "color": "#0000FF"
+    },
+
+    {
+      "name": "AWS Cloud",
+      "confidence": 85,
+      "color": "#FF8C00"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 28,
+      "title": "Open-source projects",
+      "iconPrefix": "fab",
+      "iconName": "osi"
+    },
+    {
+      "number": 59,
+      "title": "Projects completed",
+      "iconPrefix": "fas",
+      "iconName": "tasks"
+    },
+    {
+      "number": 3285,
+      "title": "Cup of coffee",
+      "iconPrefix": "fas",
+      "iconName": "coffee"
+    },
+    {
+      "number": 2,
+      "title": "Publications",
+      "iconPrefix": "far",
+      "iconName": "newspaper"
+    }
+  ]
+}

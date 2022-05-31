@@ -1,0 +1,91 @@
+{
+  "education": [
+    {
+      "period": "2010 – 2013",
+      "school": "Guru Nank Dev University",
+      "degree": "Bachelor of Computer Application",
+      "description": "Amritsar, Punjab, India"
+    },
+    {
+      "period": "2010 – 2013",
+      "school": "Guru Gobind Singh Indraprasth University",
+      "degree": "Master of Computer Apllication",
+      "description": "New Delhi, Delhi, India"
+    }
+  ],
+  "certification": [
+    {
+      "period": "2021",
+      "school": "Microsoft Certified: Azure fundamentals",
+      "degree": "Microsoft",
+      "description": "<p>Dallas, Texas, USA</p>"
+    },
+    {
+      "period": "2019",
+      "school": "Amazon web services (AWS): the complete intorduction",
+      "degree": "Udemy",
+      "description": "<p>Dallas, Texas, USA</p>"
+    },
+    {
+      "period": "2019",
+      "school": "Microservices fundamentals",
+      "degree": "Udemy",
+      "description": "<p>Dallas, Texas, USA</p>"
+    },
+    {
+      "period": "2019",
+      "school": "The complete microservices with spring core",
+      "degree": "Udemy",
+      "description": "<p>Dallas, Texas, USA</p>"
+    },
+    {
+      "period": "2018",
+      "school": "Safe 4 Practitioner Certification",
+      "degree": "Scaled Agile Inc.",
+      "description": "<p>Dallas, Texas, USA</p>"
+    },
+    {
+      "period": "2015",
+      "school": "Core & Advance Java with framework",
+      "degree": "Tech Mentro",
+      "description": "New Delhi, Delhi, India"
+    }
+  ],
+  "career": [
+    {
+      "period": "Jul 2019 - Present",
+      "company": "HCL America Inc.",
+      "title": "Technical Lead",
+      "description": "<p>Dallas, Texas, USA</p>",
+      "role": "Working as a Tech Lead with having technologies like (TypeScript, NodeJS, AWS, Microsoft Azure, MongoDb, Restful API, Microservices). Currently working for Verizon on technology NodeJS and AngularJS to create microservices and UI. Contributing to requirement gathering, design and coding. Working with the Business analyst, Project Manager, Product Owner and Testing team closely to meet project requirements and deadline. Coordinating with users in completing Test cases, UAT and issue resolutions. "
+    },
+    {
+      "period": "Nov 2016 - July 2019",
+      "company": "ITBRIZ LLC.",
+      "title": "Senior Software Engineer",
+      "description": "<p>Dallas, Texas, USA</p>",
+      "role": "Worked as a Full-stack Developer & Tester for various web application development with reporting and analytics feature. Contributed to requirement gathering, design and coding. Worked with Business analyst, Project Manager and Testing team to meet project deadline. Helped users in completing Test cases, UAT and issue resolutions. Worked on Market data web analytics application, Sales opportunity, issues and order management web applications development, enhancement, and issue resolutions"
+    },
+    {
+      "period": "Oct 2015 - Nov 2016",
+      "company": "Saffron Tech Pvt.Ltd",
+      "title": "System Analyst Engineer",
+      "description": "<p>New Delhi, Delhi, India</p>",
+      "role": "Worked as Java Developer for various purchasing portal to build secure portal to buy their products quickly and safely. Worked with the team leader for designing and developing the code according to the end user requirements. Worked on Bluefish Sport, Asaf-Ganot, Anima domus"
+    },
+    {
+      "period": "Oct 2013 - Oct 2014",
+      "company": "Total Wireless Technolgies Pvt. Ltd.",
+      "title": "Software developer",
+      "description": "<p>New Delhi, Delhi, India</p>",
+      "role": "Worked as a Junior Java developer for various GPS tracking web application development, design and coding. Worked with Project Manager and Testing team to meet project requirements. Helped Project Manager to provide solutions related to requirement of Users tracking Systems. Worked on GPS online solutions, Tracker Home & Vehicle Tracking Station."
+    },
+    {
+      "period": "Aug 2010 - Nov 2016",
+      "company": "Webspro Technosys",
+      "title": "Freelance",
+      "description": "<p>New Delhi, Delhi, India</p>",
+      "role": "Worked as Web developer for various freelance web application development, design and coding. Worked with team to meet project requirements. Helped Project Manager to provide solutions related to requirement specific."
+    }
+  ]
+}
