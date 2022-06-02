@@ -9,14 +9,15 @@ import {
   Services,
   Review,
   Tools,
-  Contact,
 } from "../sections";
+
 import { Row, Col, Container } from "react-bootstrap";
 import ScrollTopArrow from "./ScrollTopArrow";
 
 import "../components/Icons";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Certification from "sections/Certification";
+import Contact from "sections/Contact";
 
 function App() {
   return (
@@ -41,7 +42,7 @@ function App() {
         <Certification />
         {/* <Services />
         <Tools /> */}
-        <Contact />
+        {/* <Contact /> */}
       </main>
       <Footer />
       <ScrollTopArrow />

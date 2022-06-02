@@ -2,7 +2,7 @@
   "firstName": "Chetan",
   "middleName": " ",
   "lastName": "Thakur",
-  "avatar": "/images/Chetan.jpg",
+  "avatar": "./images/CHETAN_THAKUR.png",
   "titles": [
     "Fullstack developer",
     "Front-End developer",

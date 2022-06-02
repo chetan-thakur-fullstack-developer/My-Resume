@@ -39,25 +39,30 @@ export class Header extends React.Component {
                   </Scroller>
                 </Nav.Item>
                 <Nav.Item as="li">
-                  <Scroller href="#about" className="nav-link">
-                    About
-                  </Scroller>
-                </Nav.Item>
-                <Nav.Item as="li">
-                  <Scroller href="#education" className="nav-link">
-                    Education &amp; Experience
-                  </Scroller>
-                </Nav.Item>
-                <Nav.Item as="li">
                   <Scroller href="#recommendations" className="nav-link">
                     Recommendations
                   </Scroller>
                 </Nav.Item>
                 <Nav.Item as="li">
+                  <Scroller href="#about" className="nav-link">
+                    About Me
+                  </Scroller>
+                </Nav.Item>
+                <Nav.Item as="li">
+                  <Scroller href="#education" className="nav-link">
+                    Education
+                  </Scroller>
+                </Nav.Item>
+                <Nav.Item as="li">
+                  <Scroller href="#experience" className="nav-link">
+                    Experience
+                  </Scroller>
+                </Nav.Item>
+                {/* <Nav.Item as="li">
                   <Scroller href="#contact" className="nav-link">
                     Contact
                   </Scroller>
-                </Nav.Item>
+                </Nav.Item> */}
               </Nav>
             </Navbar.Collapse>
           </Navbar>

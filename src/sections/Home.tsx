@@ -23,9 +23,8 @@ export class Home extends React.Component {
             <img
               src={details.avatar}
               alt="Chetan Thakur"
-              className="mb-4 roundImg"
+              className="mb-4 squareImage "
             />
-
             <h1 className="mb-2 mt-0">
               {details.firstName}
               <Dot>{details.middleName}</Dot>
@@ -46,7 +45,7 @@ export class Home extends React.Component {
               </TextLoop>
             </span>
 
-            <ul className="social-icons light list-inline mb-0 mt-4">
+            {/* <ul className="social-icons light list-inline mb-0 mt-4">
               {details.socialNetworks.map((network) => (
                 <li className="list-inline-item" key={network.iconName}>
                   <a
@@ -58,20 +57,20 @@ export class Home extends React.Component {
                   </a>
                 </li>
               ))}
-            </ul>
+            </ul> */}
 
             <div className="mt-4">
-              <Scroller href="#contact" className="btn btn-kd">
+              {/* <Scroller href="#contact" className="btn btn-kd">
                 Contact me
-              </Scroller>
+              </Scroller> */}
               <p> </p>
               <a
-                href="/Chetan-Thakur-Resume.pdf"
+                href="./Chetan-Thakur-Resume.pdf"
                 className="btn btn-kd"
                 target="_blank"
                 role="button"
               >
-                Download reesume
+                Download resume
               </a>
             </div>
           </div>
