@@ -65,7 +65,7 @@
 //                 <Form.Group controlId="inputEmail">
 //                   <Form.Control
 //                     type="email"
-//                     className="kd-form-control"
+//                     className="ct-form-control"
 //                     placeholder="Email address"
 //                   />
 //                 </Form.Group>
@@ -76,7 +76,7 @@
 //                 <Form.Group controlId="inputSubject">
 //                   <Form.Control
 //                     type="text"
-//                     className="kd-form-control"
+//                     className="ct-form-control"
 //                     placeholder="Subject"
 //                   />
 //                 </Form.Group>
@@ -87,7 +87,7 @@
 //                 <Form.Group controlId="inputSubject">
 //                   <Form.Control
 //                     type="text"
-//                     className="kd-form-control"
+//                     className="ct-form-control"
 //                     placeholder="Company name"
 //                   />
 //                 </Form.Group>
@@ -99,7 +99,7 @@
 //                 <Form.Group controlId="inputSubject">
 //                   <Form.Control
 //                     type="text"
-//                     className="kd-form-control"
+//                     className="ct-form-control"
 //                     placeholder="Contact"
 //                   />
 //                 </Form.Group>
@@ -111,7 +111,7 @@
 //                   <Form.Control
 //                     as="textarea"
 //                     rows={5}
-//                     className="kd-form-control"
+//                     className="ct-form-control"
 //                     placeholder="Message"
 //                   />
 //                 </Form.Group>
@@ -201,7 +201,7 @@ const Contact: FC = () => {
         <Row>
           <Col md={6}>
             <input
-              className="kd-form-control"
+              className="ct-form-control"
               placeholder="Name*"
               value={user.name || ""}
               onChange={handleChange("name")}
@@ -211,7 +211,7 @@ const Contact: FC = () => {
           </Col>
           <Col md={6}>
             <input
-              className="kd-form-control"
+              className="ct-form-control"
               placeholder="Contact*"
               value={user.contact || ""}
               onChange={handleChange<number>("contact")}
@@ -223,7 +223,7 @@ const Contact: FC = () => {
         <Row>
           <Col md={6}>
             <input
-              className="kd-form-control"
+              className="ct-form-control"
               placeholder="Email*"
               type="email"
               value={user.email || ""}
@@ -233,7 +233,7 @@ const Contact: FC = () => {
           </Col>
           <Col md={6}>
             <input
-              className="kd-form-control"
+              className="ct-form-control"
               placeholder="Company name"
               value={user.companyName || ""}
               onChange={handleChange("companyName")}
@@ -246,7 +246,7 @@ const Contact: FC = () => {
         <Row>
           <Col md={12}>
             <input
-              className="kd-form-control"
+              className="ct-form-control"
               placeholder="Message"
               value={user.message || ""}
               onChange={handleChange("message")}

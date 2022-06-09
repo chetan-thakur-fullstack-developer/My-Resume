@@ -20,7 +20,7 @@ const Dot = styled.span({
 export class Header extends React.Component {
   render() {
     return (
-      <header className="kd-header fixed-top">
+      <header className="ct-header fixed-top">
         <Container>
           <Navbar expand="lg" variant="dark">
             <Navbar.Brand href="#">

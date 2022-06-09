@@ -1,7 +1,7 @@
 /*=================================================================*/
 /*                      HEADER                              
 /*=================================================================*/
-.kd-header {
+.ct-header {
   background: $color-dark;
   padding: 20px 0;
   border-bottom: solid 1px #ffff;
@@ -87,7 +87,7 @@
 }
 
 @media (min-width: 992px) {
-  .kd-header {
+  .ct-header {
     .navbar-expand-lg {
       .navbar-nav {
         .nav-link {
